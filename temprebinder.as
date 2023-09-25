@@ -1,6 +1,6 @@
 //temprebinder.as//
 {
-  "version":"1",
+  "version":"2",
   "source":"https://github.com/idgafboom/rebinder/releases/download/a/temprebinder_ahk.zip",
   "compiled":"https://github.com/idgafboom/rebinder/releases/download/a/temprebinder_exe.zip",
   "passwords": [
