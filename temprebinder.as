@@ -1,4 +1,4 @@
-//packageName.as//
+//temprebinder.as//
 {
   "version":"1",
   "source":"link",
